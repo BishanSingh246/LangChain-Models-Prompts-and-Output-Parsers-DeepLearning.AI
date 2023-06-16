@@ -4,7 +4,7 @@
 </h1>
 
 ## Description
-In this repository, we can learn how to fine-tune llm on instructions.
+In this repository, we can learn about models, prompts, and output parsers (Langchain).
 <br>
 
 Reference - <a href='https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers'>LangChain: Models, Prompts and Output Parsers DeepLearning.AI</a>
